@@ -40,7 +40,7 @@
     "eslint-loader": "https://github.com/DevFullStackJS/eslint-loader.git",
     "globby": "^9.2.0",
     "inquirer": "^7.1.0",
-    "webpack": "https://github.com/DevFullStackJS/webpack.git",
+    "webpack": "^4.0.0",
     "yorkie": "^2.0.0"
   },
   "deprecated": false,
