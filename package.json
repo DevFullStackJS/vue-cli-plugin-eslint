@@ -36,7 +36,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "@vue/cli-shared-utils": "https://github.com/DevFullStackJS/vue-cli-shared-utils.git",
+    "@vue/cli-shared-utils": "^4.5.10",
     "eslint-loader": "https://github.com/DevFullStackJS/eslint-loader.git",
     "globby": "^9.2.0",
     "inquirer": "^7.1.0",
